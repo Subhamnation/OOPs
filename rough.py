@@ -1,4 +1,4 @@
-# lst = [1,2,3]
+#lst = [1,2,3]
 # my_str = 'mlops playlist'
 # my_int = 155
 
@@ -12,6 +12,12 @@
 #my_str = my_str.capitalize()
 #print(my_str)
 
+# method
+from oops_proj import chatbook
+user1 = chatbook()
+user1.sendmsg()
 
-# from oops_proj import chatbook
-# user1 = chatbook()
+# function
+# a1 = len(lst)
+# print(a1)
+
